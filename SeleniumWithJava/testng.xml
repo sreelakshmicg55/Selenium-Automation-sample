@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Automation Test Suite">
+
+	<listeners>
+		<listener class-name="com.qa.listener.TestListener" />
+	</listeners>
+<!--
+ -->
+
+	<test name="Fahrrad.de Test Cases">
+		<classes>
+<!--
+		<class name="com.qa.testcases.fahrrad.FahrradMainPageTest"></class>
+			<class name="com.qa.testcases.fahrrad.FahrradProductListPageTest"></class>
+			<class name="com.qa.testcases.fahrrad.FahrradProductPageTest"></class>
+ -->		<class name="com.qa.testcases.fahrrad.FahrradCartPageTest"></class>
+		
+		</classes>
+	</test>
+	
+	
+	
+</suite>
