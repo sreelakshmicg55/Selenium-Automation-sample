@@ -2,7 +2,7 @@
 
 #################################
 
-* The code Automates the Webpage Fahrrad.de covering some test scenarios of e-commerse
+* The code Automates the Webpage Fahrrad.de covering some test scenarios of e-commerce
 * The Automation script uses selenium Java with TestNG 
 * Uses Maven Build management tool and can be ran with maven commands
 * Uses POM model for framework
